@@ -1,1 +1,2 @@
 sudo useradd -m chevrefeuille-png
+sudo ls-ld / chevrefeuille-png
